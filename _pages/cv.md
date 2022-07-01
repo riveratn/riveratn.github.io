@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Atmospheric Science, University at Albany, 2024 (expected)
+* B.S. in Theoretical Physics, University of Puerto Rico, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2019-Present: Research Assistant
+  * University at Albany
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Advisors: Dr. Brian Tang, Dr. Kristen Corbosiero
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2018, 2019: SOARS Protégé
+  * National Center for Atmospheric Research
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Research Mentor: Falko Judt 
   
 Skills
 ======
