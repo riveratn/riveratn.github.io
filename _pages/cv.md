@@ -18,15 +18,20 @@ Work experience
 ======
 * 2019-Present: Research Assistant
   * University at Albany
-  * Duties included: Tagging issues
+  * My research examines what causes downshear reformation in tropical cyclones, using observations, reanalysis data, modeling and ensemble forecasting
   * Advisors: Dr. Brian Tang, Dr. Kristen Corbosiero
+
+* 2020 Hurricane Season: Weather Reporter 
+  * Radio Isla 1320, San Juan Puerto Rico
+  * Prepared and presented accurate weather forecasts for the radio, and comunicated warnings and weather-related situations updates. 
+  * Producers: Eric de León, Magdiel Colón
 
 * Summer 2018, 2019: SOARS Protégé
   * National Center for Atmospheric Research
-  * Duties included: Merging pull requests
+  * I examined the impact that high-resolution terrain has when modeling the landfall of tropical cyclone in regions characterized by a complex topography.
   * Research Mentor: Falko Judt 
   
-Skills
+Service and Leadership
 ======
 * Skill 1
 * Skill 2
@@ -35,24 +40,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Presentations and Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Languages
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Skills
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Honors
 ======
 * Currently signed in to 43 different slack teams
