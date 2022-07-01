@@ -4,10 +4,10 @@ main:
     url: /research/
 
   - title: "Opportunities for Students"
-    url: /students/    
+    url: /talks/    
 
   - title: "Educational Material"
-    url: /material/    
+    url: /teaching/    
         
   - title: "Blog Posts"
     url: /year-archive/
