@@ -33,7 +33,7 @@ Experience
   
 Leadership, Outreach and Volunteer Work 
 ======
-* DAES Tutoring Program, University at Albany, *Tutor, Albany N.Y, August 2021-present
+* DAES Tutoring Program, University at Albany, *Tutor, Albany N.Y, August 2021-present*
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
