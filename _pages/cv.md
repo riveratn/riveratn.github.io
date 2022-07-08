@@ -33,19 +33,19 @@ Experience
   
 Leadership, Outreach and Volunteer Work 
 ======
-* DAES Tutoring Program, University at Albany, Tutor, Albany N.Y, August 2021-present
+* DAES Tutoring Program, University at Albany, *Tutor, Albany N.Y, August 2021-present
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* PCAM Mentoring Program, Mentor, San Juan P.R, August 2021 - present
-* PCAM Weather Camp, Volunteer, San Juan P.R, July 2021 
-* UAlbany Weather Camp, University at Albany, Volunteer, Albany N.Y, August 2021 
-* 34th Annual Upstate New York Junior Science and Humanities Symposium, Poster Judge, Albany N.Y, March 2021
-* DAES Graduate Recruitment Week, University at Albany, Host, Albany N.Y, February 2021
-* DAES Graduate Student Mentorship Program, University at Albany, Mentor, Albany N.Y, August 2021 
-* AMS Mayagüez Outreach Commitee, University of Puerto Rico at Mayagüez, Leader, Mayagüez P.R, August 2018- May 2019
-* AMS Mayagüez Journal Commitee, University of Puerto Rico at Mayagüez, Coeditor, Mayagüez P.R, August 2017- May 2019 
-* AMS Mayagüez Demostrations Commitee, University of Puerto Rico at Mayagüez, Volunteer, Mayagüez P.R, August 2017- May 2019
+* PCAM Mentoring Program, *Mentor, San Juan P.R, August 2021 - present
+* PCAM Weather Camp, *Volunteer, San Juan P.R, July 2021 
+* UAlbany Weather Camp, University at Albany, *Volunteer, Albany N.Y, August 2021 
+* 34th Annual Upstate New York Junior Science and Humanities Symposium, *Poster Judge, Albany N.Y, March 2021
+* DAES Graduate Recruitment Week, University at Albany, *Host, Albany N.Y, February 2021
+* DAES Graduate Student Mentorship Program, University at Albany, *Mentor, Albany N.Y, August 2021 
+* AMS Mayagüez Outreach Commitee, University of Puerto Rico at Mayagüez,*Leader, Mayagüez P.R, August 2018- May 2019
+* AMS Mayagüez Journal Commitee, University of Puerto Rico at Mayagüez, *Coeditor, Mayagüez P.R, August 2017- May 2019 
+* AMS Mayagüez Demostrations Commitee, University of Puerto Rico at Mayagüez, *Volunteer, Mayagüez P.R, August 2017- May 2019
 
 Presentations and Publications
 ======
