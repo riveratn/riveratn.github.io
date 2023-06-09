@@ -19,13 +19,13 @@ Experience
 * Graduate Research Assistant: August 2019 - Present
   * University at Albany, Department of Atmospheric and Environmental Sciences, Albany, New York
   * Conducted research on tropical cyclones and tropical meteorology
-        * Studied Sally’s (2020) downshear reformation using a high-resolution ensemble forecasting
-        * Created a climatology of Atlantic basin tropical cyclones that have undergone downshear reformation from 1998-2020
-        * Examined large-scale factors associated with downshear reformation using reanalysis data
-        * Investigated Dorian’s (2019) intensification due to land interaction using numerical modeling
-        * Developed a numerical model to study islands’ sea breeze 
-        * Generated a multi-physics ensemble to examine the impact of microphysics schemes in tropical cyclones
-  * Advisors: Dr. Brian Tang, Dr. Kristen Corbosiero
+  * Studied Sally’s (2020) downshear reformation using a high-resolution ensemble forecasting
+  * Created a climatology of Atlantic basin tropical cyclones that have undergone downshear reformation from 1998-2020
+  * Examined large-scale factors associated with downshear reformation using reanalysis data
+  * Investigated Dorian’s (2019) intensification due to land interaction using numerical modeling
+  * Developed a numerical model to study islands’ sea breeze 
+  * Generated a multi-physics ensemble to examine the impact of microphysics schemes in tropical cyclones
+
 
 * Broadcast Meteorologist: June - November 2021
   * Radio Isla 1320, San Juan Puerto Rico
@@ -36,12 +36,13 @@ Experience
 * SOARS Protégé: May - August 2018, May - August 2019
   * National Center for Atmospheric Research (NCARS), Boulder, Colorado
   * Conducted research on the impact of high-resolution terrain data on numerical modeling
-        * Studied the impact of high-resolution terrain data in simulations of the landfall of Hurricane Maria in Puerto Rico using stochastically perturbed ensembles 
-        * Analyzed the wind speed and the accumulated precipitation over Puerto Rico when accurately representing the mountainous terrain of the island
-  * Research Mentor: Falko Judt 
+  * Studied the impact of high-resolution terrain data in simulations of the landfall of Hurricane Maria in Puerto Rico using stochastically perturbed ensembles 
+  * Analyzed the wind speed and the accumulated precipitation over Puerto Rico when accurately representing the mountainous terrain of the island
 
 * Undergraduate Research Assistant: August 2017 - February 2018 
-* 
+  * University of Puerto Rico at Mayaguez, Department of Geology
+  * Investigated the impact of Hurricane Maria (2017) on coastal communities in Puerto Rico
+  * Examined the changes in vegetation, terrain, coastal erosion and river discharge using remote sensing, comparing aerial and satellite imagery
   
 Leadership, Outreach and Volunteer Work 
 ======
@@ -67,9 +68,7 @@ Presentations and Publications
   
 Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Skills
 ======
