@@ -62,9 +62,16 @@ Leadership, Outreach and Volunteer Work
 
 Presentations and Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Rivera-Torres, N.G, Tang, B., Corbosiero, K., An ensemble approach to investigate the downshear reformation of Sally (2020). 35th Conference on Hurricane and Tropical Meteorology. May 2022. Oral Presentation
+* Rivera-Torres, N.G, Tang, B., Corbosiero, K., Examining the Environmental Factors Associated with Downshear Reformation in Tropical Cyclones. SACNAS NDiSTEM Digital Conference. SACNAS Research Day: Highlighting Our Graduate Students. October 2021. Oral Presentation
+* Rivera-Torres, N.G, Tang, B., Corbosiero, K., Examining the Environmental Factors Associated with Downshear Reformation in Tropical Cyclones. 34th Conference on Hurricane and Tropical Meteorology. May 2021. Poster
+* Rivera-Torres, N.G., Judt, F. Effect of High-Resolution Topography in Simulations of Hurricane Maria's Landfall in Puerto Rico. AMS 100th Annual Meeting. Tropical Meteorology and Tropical Cyclones Symposium. Boston, MA. January 2020. Poster 
+* Rivera-Torres, N.G., Judt, F. A Numerical Study on the Landfall of Hurricane Maria in Puerto Rico. 2019 Summer Intern Research Presentations, Boulder, CO. August 2019. Poster
+* Rivera-Torres, N.G., Judt, F. A Numerical Study on the Landfall of Hurricane Maria in Puerto Rico. 2019 SOARS Colloquium. National Center for Atmospheric Research, Boulder, CO. August 2019. Oral Presentation 
+* Rivera-Torres, N.G., Judt, F. The Impact of High-Resolution Terrain in WRF Simulations of Hurricane Maria. Physics and Meteorology Symposium. University of Puerto Rico, Mayagüez, P.R. September 2018. Oral Presentation  
+* Rivera-Torres, N.G., Judt, F. The Impact of High-Resolution Terrain in WRF Simulations of Hurricane Maria. 2018 Summer Intern Research Presentations, Boulder, CO. August 2018. Poster
+* Rivera-Torres, N.G., Judt, F. The Impact of High-Resolution Terrain in WRF Simulations of Hurricane Maria. 2018 SOARS Colloquium, National Center for Atmospheric Research, Boulder, CO. August 2018. Oral Presentation 
+
   
 Languages
 ======
