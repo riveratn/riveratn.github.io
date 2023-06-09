@@ -86,7 +86,6 @@ Leadership, Outreach and Volunteer Work
 * UPRM AMS Student Chapter Journal, UPRM, Co-editor, Mayagüez, PR | August 2017 – May 2018
   * Wrote and edited articles covering different environmental and atmospheric sciences topics for the 11th volume of the journal
 
-
 Presentations and Publications
 ======
 * Rivera Torres, N.G., K.L. Corbosiero, B.H. Tang, 2023: Factors associated with the downshear reformation of tropical cyclones. Mon. Wea. Rev. Under review
@@ -108,9 +107,7 @@ Languages
   
 Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Operating Systems: *Microsoft Windows, Mac OS, Linux/Unix, Shell Scripting, Github
   
 Awards and Honors
 ======
