@@ -70,7 +70,7 @@ Leadership, Outreach and Volunteer Work
   * Helped high school students with their research projects and presentations, teaching them how to follow the scientific method, create figures, and present their science-related work to different audiences 
   * Presented essential information about tropical cyclones and their impacts on our society
 
-* PCAM Weather Camp, Volunteer | Summer 2021, Summer 2022
+* PCAM Weather Camp, Volunteer, Summer 2021, Summer 2022
   * Gave a lesson to high school students about tropical cyclones, their development, structure, and impacts. 
 
 * Graduate Student Mentorship Program, University at Albany, DAES, Mentor, Albany, NY, September 2021 – May 2022
