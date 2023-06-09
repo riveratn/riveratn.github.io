@@ -48,7 +48,7 @@ Leadership, Outreach and Volunteer Work
 ======
 * EAGER Project, NCAR, Participant | May 2022 – Present
   * Participated in the NSF-funded project- “Elevating and empowering Hispanic/Latinx voices through video: Reducing barriers in academia and building an ecosystem for success in the Earth system sciences.”
- * Filmed interviews with Hispanic community members to share their stories and understand how the university system can change to create a more inclusive environment for individuals in geoscience
+  * Filmed interviews with Hispanic community members to share their stories and understand how the university system can change to create a more inclusive environment for individuals in geoscience
 
 * Academic Journals, Reviewer | October 2021 - Present 
   * American Meteorological Society: Monthly Weather Review
