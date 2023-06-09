@@ -62,6 +62,8 @@ Leadership, Outreach and Volunteer Work
 
 Presentations and Publications
 ======
+* Rivera Torres, N.G., K.L. Corbosiero, B.H. Tang, 2023: Factors associated with the downshear reformation of tropical cyclones. Mon. Wea. Rev. Under review
+* Rivera-Torres, N.G, Tang, B., Corbosiero, K., An ensemble approach to investigate the downshear reformation of Sally (2020). 10th Northeast Tropical Workshop. Albany, N.Y. June 2023. Poster
 * Rivera-Torres, N.G, Tang, B., Corbosiero, K., An ensemble approach to investigate the downshear reformation of Sally (2020). 35th Conference on Hurricane and Tropical Meteorology. May 2022. Oral Presentation
 * Rivera-Torres, N.G, Tang, B., Corbosiero, K., Examining the Environmental Factors Associated with Downshear Reformation in Tropical Cyclones. SACNAS NDiSTEM Digital Conference. SACNAS Research Day: Highlighting Our Graduate Students. October 2021. Oral Presentation
 * Rivera-Torres, N.G, Tang, B., Corbosiero, K., Examining the Environmental Factors Associated with Downshear Reformation in Tropical Cyclones. 34th Conference on Hurricane and Tropical Meteorology. May 2021. Poster
