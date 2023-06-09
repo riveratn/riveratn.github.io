@@ -104,7 +104,7 @@ Presentations and Publications
   
 Languages
 ======
-
+* Spanish
   
 Skills
 ======
@@ -114,4 +114,11 @@ Skills
   
 Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+* University at Albany Presidential Fellowship, University at Albany | Fall 2019 
+* Carson Carr Graduate Diversity Fellowship, University at Albany | Fall 2019
+* SOARS Scholarship, University Corporation for Atmospheric Research | Fall 2018 
+* PCAM Scholarship, University of Puerto Rico at Mayagüez | Spring 2018 
+* Asociación de Claustrales Jubilados Scholarship, University of Puerto Rico | Fall 2018, Fall 2019 
+* University of Puerto Rico Honor Roll Scholarship, Mayagüez, P.R | Fall 2016- Spring 2019
+* Nicolás Rodríguez Matos Science Award and Scholarship, Comerío, P. R | Summer 2015
+
