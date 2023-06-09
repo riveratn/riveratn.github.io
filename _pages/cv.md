@@ -47,7 +47,8 @@ Experience
 Leadership, Outreach and Volunteer Work 
 ======
 * EAGER Project, NCAR, Participant | May 2022 – Present
-  * Participated in the NSF-funded project- “Elevating and empowering Hispanic/Latinx voices through video: Reducing barriers in academia and building an ecosystem   for success in the Earth system sciences.”
+  * Participated in the NSF-funded project- “Elevating and empowering Hispanic/Latinx voices through video: Reducing barriers in academia and building an ecosystem for success in the Earth system sciences.”
+  * Filmed interviews with Hispanic community members to share their stories and understand how the university system can change to create a more inclusive environment for individuals in geoscience
 
 * Academic Journals, Reviewer | October 2021 - Present 
   * American Meteorological Society: Monthly Weather Review
@@ -64,22 +65,24 @@ Leadership, Outreach and Volunteer Work
 * DAES Inclusion and Diversity Committee, University at Albany, Volunteer, Albany, NY | Summer 2022
   * Contributed to a project to examine the enrollment statistics of the STEM departments at UAlbany
   * Quantified the enrollment tendencies from 2006-2020 by department, degree, race, ethnicity, and gender
+
 * UAlbany Weather, Climate, and Chemistry Camp, University at Albany, Volunteer, Albany, NY | Summer 2021, Summer 2022
   * Helped high school students with their research projects and presentations, teaching them how to follow the scientific method, create figures, and present their science-related work to different audiences 
   * Presented essential information about tropical cyclones and their impacts on our society
 
 * PCAM Weather Camp, Volunteer | Summer 2021, Summer 2022
-
   * Gave a lesson to high school students about tropical cyclones, their development, structure, and impacts. 
 
 * Graduate Student Mentorship Program, University at Albany, DAES, Mentor, Albany, NY | September 2021 – May 2022
   * Paired with a first-year student to answer their questions about the department and helped to acclimate to graduate school
+
 * REU and Internship Night, University at Albany, Presenter, Albany, NY | November 2019 
   * Presented information to undergraduate students about internships, scholarships, and fellowships and taught them how to complete their application package
+
 * UPRM AMS Student Chapter Outreach Committee, UPRM, Leader, Mayagüez, PR | August 2018 – May 2019 
   * Organized outreach activities, including seminars about professional development, graduate school, internships, and fellowships applications. 
   * Visited schools to teach them about fundamental concepts of atmospheric sciences, including density, pressure, tropical cyclones, flooding, and other hazards, using interactive activities that allowed them to develop practical skills
-  	
+
 * UPRM AMS Student Chapter Journal, UPRM, Co-editor, Mayagüez, PR | August 2017 – May 2018
   * Wrote and edited articles covering different environmental and atmospheric sciences topics for the 11th volume of the journal
 
