@@ -107,7 +107,7 @@ Languages
   
 Skills
 ======
-* Operating Systems: *Microsoft Windows, Mac OS, Linux/Unix, Shell Scripting, Github
+* Operating Systems: *Microsoft Windows, Mac OS, Linux/Unix, Shell Scripting, Github*
   
 Awards and Honors
 ======
