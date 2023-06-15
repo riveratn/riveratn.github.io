@@ -2,7 +2,7 @@
 title: "Impacto del Huracan Maria en Arecibo, Puerto Rico"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-
+excerpt:
 date: 2018
 paperurl: 'http://riveratn.github.io/files/Rivera_Zayas_2017.pdf'
 citation: 'Rivera Torres, NG., Zayas Rivera, Y. (2018). &quot;Impacto del Huracan Maria en Puerto Rico.&quot;'
