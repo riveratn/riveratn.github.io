@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Impact of Hurricane Maria in Puerto Rico'
 venue: 'Online'
-date: 2018
+date: 2018-01-01
 paperurl: 'http://riveratn.github.io/files/Rivera_Zayas_2017.pdf'
 citation: 'Rivera Torres, NG., Zayas Rivera, Y. (2018). &quot;Impacto del Huracan Maria en Puerto Rico.&quot;'
 ---
