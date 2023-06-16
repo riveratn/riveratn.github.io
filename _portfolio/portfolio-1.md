@@ -1,6 +1,6 @@
 ---
 title: "Significant Opportunities in Atmospheric Research and Science (SOARS)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG_3448.JPG'>"
+excerpt: "2018 SOARS Cohort<br/><img src='/images/IMG_3448.JPG'>"
 collection: portfolio
 ---
 
