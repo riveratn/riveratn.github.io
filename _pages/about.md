@@ -17,4 +17,5 @@ My main career goal is to work towards a better understanding of atmospheric phe
 
 Contact Information
 ------
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 You can contact me at nriveratorres@albany.edu
