@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Atmospheric Science, University at Albany, Department of Atmospheric and Environmental Sciences, July 2023
-* B.S. in Theoretical Physics, University of Puerto Rico, Department of Physics, May 2019, Magna Cum Laude
+* M.S. in Atmospheric Science, University at Albany, Department of Atmospheric and Environmental Sciences
+* B.S. in Theoretical Physics, University of Puerto Rico, Department of Physics, Magna Cum Laude
 
 Experience
 ======
