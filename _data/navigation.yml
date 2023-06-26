@@ -9,7 +9,8 @@ main:
   - title: "Blog Posts"
     url: /teaching/    
         
-
+  - title: "Talks"
+    url: /talks/ 
 
     
   - title: "CV"
