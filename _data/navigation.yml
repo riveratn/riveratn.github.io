@@ -1,16 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/
+    url: /teaching/
 
-  - title: "Opportunities for Students"
-    url: /portfolio/    
-
-  - title: "Blog Posts"
-    url: /teaching/    
-        
-  - title: "Talks"
+  - title: "Outreach"
     url: /talks/ 
+
+  - title: "Resources for Students"
+    url: /portfolio/    
    
   - title: "CV"
     url: /cv/
