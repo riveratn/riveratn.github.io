@@ -13,6 +13,8 @@ This is a description of a teaching experience. You can use markdown like any ot
 Heading 1
 ======
 
+<br/><img src='/images/500x300.png'>
+
 Heading 2
 ======
 
