@@ -1,11 +1,11 @@
 ---
-title: "Impact of Hurricane Maria in Puerto Rico"
+title: "Impact of High-Resolution Terrain Data in Tropical Cyclone's Simulations"
 collection: teaching
 type: "Undergraduate Research"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Puerto Rico Mayaguez, Department of Geology"
+venue: "SOARS, NCAR."
 date: 2018-01-01
-location: "Mayaguez, Puerto Rico"
+location: "Boulder, Colorado"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
