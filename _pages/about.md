@@ -19,4 +19,4 @@ Contact Information
 ------
 You can contact me at nriveratorres@albany.edu
 
-[CV](http://academicpages.github.io/files/paper1.pdf)
+[CV](http://academicpages.github.io/files/riveratorres_cv.pdf)
