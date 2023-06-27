@@ -13,3 +13,4 @@ In this paper, we used remote sensing to examine Hurricane Maria's impact on Pue
 Main Findings
 ======
 
+<br/><img src='/images/maria_river.png'> 
