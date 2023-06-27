@@ -2,7 +2,7 @@
 title: "Impacto del Huracan Maria en Arecibo, Puerto Rico"
 collection: teaching
 type: "Undergraduate Research"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/hurricane_maria
 venue: "University of Puerto Rico Mayaguez, Department of Geology"
 date: 2017-01-01
 location: "Mayaguez, Puerto Rico"
