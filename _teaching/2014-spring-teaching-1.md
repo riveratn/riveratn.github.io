@@ -8,7 +8,16 @@ date: 2018-01-01
 location: "Boulder, Colorado"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The atmospheric processes involved in a tropical cyclone are affected by topographical factors
+during and after landfall. Interactions with land are capable of changing the tropical cyclone’s
+structure and behavior and, ultimately, its impact on the landmass. However, one of today’s
+forecasting challenges is that numerical weather prediction models cannot resolve many 
+factors that influence surface weather, resulting in a forecast that predicts the expected behavior
+of a tropical cyclone moving over a smooth landmass. Therefore, these models do not accurately
+represent the impact at landfall of these systems in regions characterized by complex
+terrain and multiple mountain ranges. This research project investigated how terrain resolution
+affects the landfall and behavior of tropical cyclones focusing on the landfall of Hurricane Maria
+in Puerto Rico in 2017.
 
 Heading 1
 ======
