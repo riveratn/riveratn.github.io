@@ -21,7 +21,7 @@ in Puerto Rico in 2017.
 
 Main Findings
 ======
-A set of simulations were produced using the Weather Research and Forecasting (WRF) model, where one used the default terrain resolution and the other used high-resolution terrain data. The wind speed, vertical velocity, and precipitation magnitude were shown to be higher in the island's mountainous interior when incorporating high-resolution terrain.
+A set of simulations were produced using the Weather Research and Forecasting (WRF) model, where one used the default terrain resolution and the other used high-resolution terrain data. The wind speed, vertical velocity, and precipitation magnitude were shown to be higher in the island's mountainous interior when incorporating high-resolution terrain. [Manuscript](http://riveratn.github.io/files/hurricane_maria.pdf)
 
 <br/><img src='/images/terrain_panel.png'> 
 
