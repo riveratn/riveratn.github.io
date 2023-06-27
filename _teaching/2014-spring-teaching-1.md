@@ -28,6 +28,6 @@ A set of simulations were produced using the Weather Research and Forecasting (W
 Presentations
 ======
 
-Rivera-Torres, N.G., Judt, F. Effect of High-Resolution Topography in Simulations of Hurricane Maria’s Landfall in Puerto Rico. AMS 100th Annual Meeting. Tropical Meteorology and Tropical Cyclones Symposium. Boston, MA. January 2020. [Poster](http://academicpages.github.io/files/Rivera_Nathalie_Poster2019copy.pdf)
+Rivera-Torres, N.G., Judt, F. Effect of High-Resolution Topography in Simulations of Hurricane Maria’s Landfall in Puerto Rico. AMS 100th Annual Meeting. Tropical Meteorology and Tropical Cyclones Symposium. Boston, MA. January 2020. [Poster](http://academicpages.github.io/files/poster2019.pdf)
 
 Rivera-Torres, N.G., Judt, F. A Numerical Study on the Landfall of Hurricane Maria in Puerto Rico. 2019 SOARS Colloquium. National Center for Atmospheric Research, Boulder, CO. August 2019. Oral Presentation
