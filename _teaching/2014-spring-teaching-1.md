@@ -23,7 +23,7 @@ Main Findings
 ======
 A set of simulations were produced using the Weather Research and Forecasting (WRF) model, where one used the default terrain resolution and the other used high-resolution terrain data. The wind speed, vertical velocity, and precipitation magnitude were shown to be higher in the island's mountainous interior when incorporating high-resolution terrain.
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/terrain.png'>
 
 Presentations
 ======
