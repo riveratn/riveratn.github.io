@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Mayaguez, Puerto Rico"
 ---
 
-In this paper, we examined Hurricane Maria's impact on Puerto Rico's coast using remote sensing. A comparison of aerial imagery before and after the hurricane showed a significant decrease in vegetation density, an increase in ocean sediments, major floodings, and extensive shoreline erosion. This paper is written in Spanish. Don't hesitate to contact the authors for a translation if needed.
+In this paper, we used remote sensing to examine Hurricane Maria's impact on Puerto Rico's coast. A comparison of aerial imagery before and after the hurricane showed a significant decrease in vegetation density, an increase in ocean sediments, major floodings, and extensive shoreline erosion. This manuscript is in Spanish. Don't hesitate to contact the authors for a translation if needed.
 
 Main Findings
 ======
