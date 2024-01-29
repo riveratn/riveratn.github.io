@@ -18,5 +18,3 @@ My main career goal is to work towards a better understanding of atmospheric phe
 Contact Information
 ------
 You can contact me at nriveratorres@albany.edu
-
-[CV](http://riveratn.github.io/files/riveratorres_cv.pdf)
